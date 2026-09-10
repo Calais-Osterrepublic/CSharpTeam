@@ -42,3 +42,4 @@ team project requires — this starter is meant to be a foundation, not a final 
 
 ## TEAM MEMBERS
 ## Devon Hornsby
+## Jb Lumawig Masadao (C#)
