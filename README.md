@@ -1,5 +1,5 @@
 # LibraryApp — .NET Starter Project
-
+## Kaydence Norris on the CSharp team
 This is your starting point for the team project. It's a small console app that
 models a library book checkout system, with a test project already wired up
 and one example test in place.
@@ -42,3 +42,6 @@ team project requires — this starter is meant to be a foundation, not a final 
 
 ## Team Members- Joshua Lee (C Sharp)- ...
 
+## TEAM MEMBERS
+## Devon Hornsby
+## Jb Lumawig Masadao (C#)
